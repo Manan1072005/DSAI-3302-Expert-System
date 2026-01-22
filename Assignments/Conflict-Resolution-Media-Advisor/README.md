@@ -34,3 +34,13 @@ The instructor recommends reading this **first** to understand the workflow prop
 
 [Git Workflow for Students.pdf](Git%20Workflow%20for%20Students.pdf)
 [Git Workflow for Students.pdf](Git%20Workflow%20for%20Students.pdf)
+---
+# Practical Assignment Solution
+
+This is my completed practical task for the Expert Systems course
+
+You can view it here:
+
+[View Practical Task on GitHub](https://github.com/Sarah111-AHM/Expert-system-26/tree/PracticalTask)
+
+It is recommended to review the Git Workflow for Students.pdf first before exploring this solution
