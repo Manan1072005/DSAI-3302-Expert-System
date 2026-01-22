@@ -27,3 +27,10 @@ The goal is to resolve conflicts when multiple rules apply at the same time.
 - Watch for conflicting rules in real-world examples  
 - Focus on clarity and reasoning behind your conflict resolution method  
 - Use the provided Python work to test and demonstrate your solution
+---
+# Assignment Resources
+
+The instructor recommends reading this **first** to understand the workflow properly before starting the assignment on GitHub
+
+[Git Workflow for Students.pdf](Git%20Workflow%20for%20Students.pdf)
+[Git Workflow for Students.pdf](Git%20Workflow%20for%20Students.pdf)
